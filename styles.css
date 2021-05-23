@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background: #0d1d31;
+    color: white;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 10%;
+}
+
+button {
+    justify-content: center;
+    justify-content: space-around;
+    height: 50px;
+    width: 150px;
+    color: white;
+    background-color:#0A3127;
+    margin-top: 15%;
+}
+
+.options {
+ 	position: relative;
+    margin-bottom: 0%;
+}
